@@ -3,7 +3,7 @@ import Section_2_image from '../assets/Section_2.png'
 const Section_2 = () => {
   return (
     <div className='w-screen lg:h-screen bg-voilet p-6'>
-      <div className='max-w-[1280px] h-full m-auto flex flex-col-reverse lg:flex-row justify-between items-center'> 
+      <div className='max-w-[1280px] h-full lg:m-auto flex flex-col-reverse lg:flex-row justify-between items-center my-16'> 
         <div className='lg:w-[511px] flex flex-col gap-5'>
             <div className='font-sans text-2xl leading-7 lg:text-[40px] lg:leading-[40px] font-bold'>
                 Real certified Google Ads professionals

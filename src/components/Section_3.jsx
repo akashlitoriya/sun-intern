@@ -5,7 +5,7 @@ import { Rate } from 'antd'
 const Section_3 = () => {
   return (
     <div className='w-screen lg:h-screen bg-voilet'>
-      <div className='max-w-[1280px] bg-white lg:rounded-[50px] m-auto flex flex-col lg:flex-row items-center justify-between p-6 gap-10'>
+      <div className='max-w-[1280px] bg-white lg:rounded-[50px] lg:m-auto flex flex-col lg:flex-row items-center justify-between gap-10'>
         <div className='lg:w-[640px] flex justify-center items-center'>
             <div className='lg:w-[480px] flex flex-col gap-9'>
                 <div>

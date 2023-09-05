@@ -3,7 +3,7 @@ import Section_1_image from '../assets/Section_1.png'
 const Section_1 = () => {
   return (
     <div className='w-screen lg:h-screen bg-voilet p-6'>
-      <div className='max-w-[1280px] h-full m-auto flex justify-between items-center flex-col lg:flex-row gap-9'>
+      <div className='max-w-[1280px] h-full lg:m-auto flex justify-between items-center flex-col lg:flex-row gap-9 my-16'>
             <div className='lg:w-1/2 lg:max-w-[613px]'>
                 <img src={Section_1_image}></img>
             </div>
